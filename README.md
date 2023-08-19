@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JussSelenite
 - 👀 I’m interested in learning some codings
-- 🌱 I’m currently learning on python programming :D
+- 🌱 I’m currently learning on going through Life's challenges
 - 💞️ I’m looking to collaborate on nobody, yet
 - 📫 How to reach me --
 
