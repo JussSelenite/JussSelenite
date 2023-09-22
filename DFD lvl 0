@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T08:41:16.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="DHqJfxEW22JyugQ0sYUI" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T08:45:18.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="BqXMhzjr8C7ca4dsvgOg" version="21.8.0" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="4033" dy="2310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -523,7 +523,7 @@
             <mxPoint x="480" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FpvpKIMCrhPlR-FqmUCm-101" value="Receipt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FpvpKIMCrhPlR-FqmUCm-100">
+        <mxCell id="FpvpKIMCrhPlR-FqmUCm-101" value="Online&lt;br&gt;Payment&lt;br&gt;Receipt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FpvpKIMCrhPlR-FqmUCm-100">
           <mxGeometry x="0.0064" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -534,7 +534,7 @@
             <mxPoint x="520" y="1175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FpvpKIMCrhPlR-FqmUCm-103" value="Receipt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FpvpKIMCrhPlR-FqmUCm-102">
+        <mxCell id="FpvpKIMCrhPlR-FqmUCm-103" value="TokenCounter&lt;br&gt;Payment&lt;br&gt;Receipt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FpvpKIMCrhPlR-FqmUCm-102">
           <mxGeometry x="0.0064" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
