@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T03:13:42.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mnwsYOR8u2zWBZmpXxl4" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T03:13:57.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="EkbSl8VHElvDuOm4MJ-G" version="22.0.4" type="github">
   <diagram name="Page-1" id="cxr4IXXQh9mtF4aa7LyZ">
-    <mxGraphModel dx="1760" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="480" y="180" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fTW8L56yJX8OQJh3ZYJy-5" value="Customer Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fTW8L56yJX8OQJh3ZYJy-6" value="Contractor/Service Provider Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="190" width="120" height="60" as="geometry" />
