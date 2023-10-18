@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T02:17:26.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BfnfHWQx6ZjInkzHplOc" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T02:56:43.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="bqfLavPmmBelOegx8IQu" version="22.0.4" type="github">
   <diagram name="Page-1" id="6mhvh1MC5EZBR5rGd0tF">
-    <mxGraphModel dx="838" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="391" dy="195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,6 +316,34 @@
         <mxCell id="68caDUN-Y4P-fd0hNia5-2" value="Select Event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="68caDUN-Y4P-fd0hNia5-1">
           <mxGeometry x="0.5383" relative="1" as="geometry">
             <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68caDUN-Y4P-fd0hNia5-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.919;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0tqJMrp7prJceUdF5bHJ-6" target="0tqJMrp7prJceUdF5bHJ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="470" as="sourcePoint" />
+            <mxPoint x="710" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="743" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68caDUN-Y4P-fd0hNia5-4" value="New Event Detail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="68caDUN-Y4P-fd0hNia5-3">
+          <mxGeometry x="0.5192" y="-1" relative="1" as="geometry">
+            <mxPoint x="-64" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68caDUN-Y4P-fd0hNia5-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.09;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=110;exitDy=100;exitPerimeter=0;" edge="1" parent="1" source="0tqJMrp7prJceUdF5bHJ-6" target="0tqJMrp7prJceUdF5bHJ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="410" as="sourcePoint" />
+            <mxPoint x="520" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="494" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68caDUN-Y4P-fd0hNia5-6" value="Updated Event Detail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="68caDUN-Y4P-fd0hNia5-5">
+          <mxGeometry x="0.5623" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
