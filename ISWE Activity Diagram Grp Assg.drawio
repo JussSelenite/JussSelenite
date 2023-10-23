@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T09:35:34.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="t_KM1wfYzlfEqLSCKYhi" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T09:35:48.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lN0CH7a2in8qyytOkGPG" version="22.0.6" type="github">
   <diagram name="Page-1" id="k9bkRX0uMN_48q9yWBab">
     <mxGraphModel dx="652" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="QarHhk8M4c_gw4onXxdP-10" value="Determine the Type of Physiotherapy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QarHhk8M4c_gw4onXxdP-11" value="Calculate total Price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QarHhk8M4c_gw4onXxdP-11" value="Calculate Total Price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QarHhk8M4c_gw4onXxdP-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
